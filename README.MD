@@ -1,4 +1,4 @@
 ```bash
 node compile
-chrome index.html
+chrome test.html
 ```
